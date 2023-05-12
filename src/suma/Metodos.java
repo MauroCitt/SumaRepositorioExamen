@@ -10,6 +10,10 @@ package suma;
  */
 public class Metodos {
 
+    public int Sumar(int a, int b) {
+        return a + b;}
+
+  
 
     public int Sumar(int a, int b) {
         return a;}
