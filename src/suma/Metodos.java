@@ -15,7 +15,7 @@ public class Metodos {
 
   
 
-    public int Sumar(int a, int b) {
+    public int getNum1(int a, int b) {
         return a;}
   
     public int valorAbsoluto(int a, int b) {
