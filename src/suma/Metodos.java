@@ -10,9 +10,14 @@ package suma;
  */
 public class Metodos {
 
+
+    public int Sumar(int a, int b) {
+        return a;}
+  
     public int valorAbsoluto(int a, int b) {
         int res = Math.abs(a) + Math.abs(b);
-        return res;
+        return res;}
+
     }
 
 }
