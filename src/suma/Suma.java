@@ -15,7 +15,7 @@ public class Suma {
      */
     public static void main(String[] args) {
         
-        //*Proyecto de M05
+        //*Proyecto de M05 S
         
     }
     
